@@ -13,7 +13,7 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  background-color: rgb(193, 251, 164);
+  background-color: rgb(233, 236, 239);
   transition: 0.8s all;
 }
 h1 {
@@ -48,7 +48,7 @@ input {
   margin-bottom: 3px;
 }
 input[type="button"] {
-  color: rgb(122, 122, 122);
+  color: rgb(0, 0, 0);
 }
 input[type="text"] {
   background-color: rgb(255, 255, 255);
@@ -101,6 +101,6 @@ a {
   font-size: 1.1em;
 }
 
-.operator{
+/*.operator{
   background: yellow;
-}
+}*/
