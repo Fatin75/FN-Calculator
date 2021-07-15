@@ -26,6 +26,7 @@ h1 {
 }
 .result {
   width: 59.1%;
+  text-align: right;
 }
 input {
   padding: 25px;
@@ -98,4 +99,8 @@ a {
 }
 .fab {
   font-size: 1.1em;
+}
+
+#operator{
+  background: yellow;
 }
